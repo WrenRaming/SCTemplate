@@ -10,7 +10,8 @@ This is a template directory with related shell scripts for creating and maintai
 
 
 ## Directory Structure
-**bin** holds any major programs or script for generating figures. Both **data** and **results** can be synced with some form of storage(i.e. dropbox or on agave evivoni)—and are not updated with GitHub w/ the exception of the notebook stored in results. **doc** can contain manuscripts, supplementary information, or other related info. **src** should contain the code used for generating programs in **bin** and any other relevant scripts that you use in your work.
+**bin** holds any major programs or script for generating figures. Both **data** and **results** can be synced with some form of storage(i.e. dropbox or data/path on agave). **doc** can contain manuscripts, supplementary information, or other related info. **src** should contain the code used for generating programs in **bin** and any other relevant scripts that you use in your work.
 
 ## Misc
+Customize, and use this framework as you see fit. The idea is to provide a way to create clearly documented and reproducible research.
 Any feedback, tips or tricks, improvements, or other comments are welcome.
